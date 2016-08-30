@@ -1,0 +1,23 @@
+{
+  "name": "redux-todo-list",
+  "version": "1.0.0",
+  "description": "Create a todo list using react and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyjchung/Redux-Todo-List.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Jeremy Chung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyjchung/Redux-Todo-List/issues"
+  },
+  "homepage": "https://github.com/jeremyjchung/Redux-Todo-List#readme"
+}
